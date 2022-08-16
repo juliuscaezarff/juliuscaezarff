@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS JavaScript, RactJS, NodeJS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, node
 - 📫 How to reach me: @julius__caezar
