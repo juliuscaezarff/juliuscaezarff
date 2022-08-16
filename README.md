@@ -35,21 +35,18 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<!--<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<!--<a href="" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-julius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>-->
 <a href="https://www.instagram.com/julius__caezar/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-julius__caezar-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
+
+
+
 <!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
