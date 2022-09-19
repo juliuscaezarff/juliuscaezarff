@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julius Caezar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliuscaezarff&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I’m currently learning JavaScript, HTML, CSS, React, Node
+🔥 I’m currently learning JavaScript, HTML, CSS, React, Node
 
 <p>Let's do great things, not just create progress, but create purpose</p>
 
