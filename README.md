@@ -4,7 +4,7 @@
 
 - 🔥 I’m currently learning JavaScript, HTML, CSS, React, Node
 
-- 💬 Ask me about **JavaScript, HTML, CSS, JavaScript, Node.JS**
+
 
 
 
