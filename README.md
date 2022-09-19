@@ -4,7 +4,7 @@
 
 - 🔥 I’m currently learning JavaScript, HTML, CSS, React, Node
 
-<p>let's do great things, not just create progress, but create purpose</p>
+<p>Let's do great things, not just create progress, but create purpose</p>
 
 
 
