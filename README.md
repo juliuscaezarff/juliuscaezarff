@@ -12,6 +12,7 @@
 - `ReactJs`
 - `Node.js`
 - `mySQL`
+- `sequelize`
 - `templates engine`
 
 ### Contact
