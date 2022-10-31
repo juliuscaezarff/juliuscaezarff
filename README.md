@@ -13,7 +13,7 @@
 - `Node.js`
 - `mySQL`
 - `sequelize`
-- `templates engine`
+- `template engine (JSX, handlebars)`
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Julius%20Caezar-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julius-caezar-7b5697253/)](https://www.linkedin.com/in/julius-caezar-7b5697253/)
