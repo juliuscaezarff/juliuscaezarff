@@ -9,5 +9,9 @@
 - `HTML`
 - `CSS`
 - `javasript`
+- `ReactJs`
+- `Node.js`
+- `mySQL`
+- `templates engine`
 
 ### Contact
