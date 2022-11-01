@@ -10,6 +10,7 @@
 - `CSS`
 - `javasript`
 - `ReactJs`
+- `Git`
 - `Node.js`
 - `mySQL`
 - `sequelize`
