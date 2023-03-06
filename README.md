@@ -1,7 +1,7 @@
 
 <h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julius Caezar</h3>
 
-<p> Software developer</p>
+<p>Full stack developer and software engineering student</p>
 
 <!-- <p></p> -->
 
