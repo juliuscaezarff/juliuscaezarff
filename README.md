@@ -13,6 +13,7 @@
 - `styled-components`
 - `Git`
 - `Node.js`
+- `API Restfull`
 - `mySQL`
 - `Mongodb`
 - `Template engine`
