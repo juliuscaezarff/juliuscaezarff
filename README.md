@@ -9,6 +9,7 @@
 - `javasript / Typescript`
 - `ReactJs (Vite)`
 - `React Native (Expo)`
+- `Tailwindcss`
 - `styled-components`
 - `Git`
 - `Node.js`
