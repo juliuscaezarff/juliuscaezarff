@@ -14,6 +14,7 @@
 - `Git`
 - `Node.js`
 - `API Restfull`
+- `Prisma`
 - `mySQL`
 - `Mongodb`
 - `Template engine`
