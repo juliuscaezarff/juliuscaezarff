@@ -6,8 +6,9 @@
 <!-- <p></p> -->
 
 ### Tech Stack
-- `javasript`
-- `ReactJs`
+- `javasript / Typescript`
+- `ReactJs (Vite)`
+- `React Native (Expo)`
 - `styled-components`
 - `Git`
 - `Node.js`
