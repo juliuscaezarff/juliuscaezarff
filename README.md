@@ -2,7 +2,7 @@
 <h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julius Caezar</h3>
 
 <p>Full stack developer and software engineering student</p>
-[My Portfolio web site](https://portifolio-delta-blush.vercel.app/)
+<a href="https://portifolio-delta-blush.vercel.app/">My portfolio web site</a>
 
 <!-- <p></p> -->
 
