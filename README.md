@@ -1,10 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5196de&height=120&section=header"/>
 
-<h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julius Caezar</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Julius+Caezar;I'm+21+years+old;I'm+from+Brazil;I+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliuscaezarff&bg_color=e6e6e6&color=5196de&line=565656&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--<h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Julius Caezar</h3>-->
 
 <p>Full stack developer and software engineering student</p>
 <a href="https://portifolio-delta-blush.vercel.app/">My portfolio web site</a>
-
-<!-- <p></p> -->
 
 ### Tech Stack
 - `javasript / Typescript`
